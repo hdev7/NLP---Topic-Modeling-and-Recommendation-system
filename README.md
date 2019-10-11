@@ -1,6 +1,6 @@
 # NLP---Topic-Modeling-and-Recommendation-system
 
-This repository contains a news recommendation system based on the articles that are already read by the user and topic modeling on the corpus of articles
+This repository contains a news recommendation system based on the articles that are read by the user and topic modeling on the corpus of articles
 [Click me to check out the interactive vizualization of Topic Model](https://nbviewer.jupyter.org/github/hdev7/NLP---Topic-Modeling-and-Recommendation-system/blob/master/TopicModel.ipynb)
 
 ### What's in store
